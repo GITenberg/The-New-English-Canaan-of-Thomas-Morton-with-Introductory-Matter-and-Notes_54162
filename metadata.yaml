@@ -1,5 +1,8 @@
 _repo: The-New-English-Canaan-of-Thomas-Morton-with-Introductory-Matter-and-Notes_54162
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54162-h/images/cover.jpg
 creator:
   author:
     agent_name: Morton, Thomas
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3239
     wikipedia: http://en.wikipedia.org/wiki/Charles_Francis_Adams,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54162#The-New-English-Canaan-of-Thomas-Morton-with-Introductory-Matter-and-Notes
 gutenberg_issued: '2017-02-14'
 gutenberg_type: Text
 identifiers:
